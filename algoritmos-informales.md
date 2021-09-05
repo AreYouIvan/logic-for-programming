@@ -25,3 +25,12 @@ la logica del pensamiento y resolucion de problemas.
 5. **Desarrollar un algoritmo que permita encender un vehiculo.**
 
 6. **Desarrollar un algoritmo que permita fritar un huevo.**
+
+7.
+
+8.
+
+9.
+
+10.
+
