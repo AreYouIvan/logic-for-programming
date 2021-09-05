@@ -16,3 +16,12 @@ la logica del pensamiento y resolucion de problemas.
 	2. Buscar la llave correcta.
 		- Si es la correcta, abrir.
 		- Si no, repetir paso 1.
+
+
+3. **Desarrollar un algoritmo que permita dar un beso.**
+
+4. **Desarrollar un algoritmo que permita envolver un regalo.**
+
+5. **Desarrollar un algoritmo que permita encender un vehiculo.**
+
+6. **Desarrollar un algoritmo que permita fritar un huevo.**
